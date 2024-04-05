@@ -1,0 +1,11 @@
+for capturing http packet:
+    http://www.jaduniv.edu.in/
+
+for capturing smtp packets:
+    telnet gomer.wiscnet.net 25
+    telnet gmail-smtp-in.l.google.com 25
+    telnet smtp.gmail.com 587
+
+for capturing ftp packets:
+    ftp macfee.com
+
